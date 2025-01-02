@@ -73,11 +73,11 @@ body {
     transform: rotateY(180deg);
   }
   
-  .desvirar .back-face {
+  .up .back-face {
     transform: rotateY(0deg);
   }
   
-  .virada .front-face {
+  .up .front-face {
     transform: rotateY(-180deg);
   }
 
